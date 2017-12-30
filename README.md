@@ -1,5 +1,4 @@
-# Invie.gitHub
-Tus mejores Guitarras Invie-sibles
+# invie
+Las guitarras más locas
 
-
-Este es un repositorio de practicas 
+http://leonidasesteban.github.io/invie-responsive/
